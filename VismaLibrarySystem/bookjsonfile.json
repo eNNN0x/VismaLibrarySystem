@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "bookISBN": 1,
+      "bookname": "Test",
+      "bookauthor": "Nice",
+      "bookcategory": "Book",
+      "booklanguage": "Language",
+      "bookpublicationdate": "Date"
+    },
+    {
+      "bookISBN": 2,
+      "bookname": "Harry Potter and the Sorcerers Stone",
+      "bookauthor": "J.K.Rowling",
+      "bookcategory": "Future",
+      "booklanguage": "English",
+      "bookpublicationdate": "1997-06-26"
+    },
+    {
+      "bookISBN": 3,
+      "bookname": "The Pragmatic Programmer",
+      "bookauthor": "Andy Hunt and Dave Thomas",
+      "bookcategory": "Programing",
+      "booklanguage": "English",
+      "bookpublicationdate": "1999-07-01"
+    },
+    {
+      "bookISBN": 4,
+      "bookname": "Harry Potter and the Chamber of secrets",
+      "bookauthor": "J.K.Rowling",
+      "bookcategory": "Future",
+      "booklanguage": "English",
+      "bookpublicationdate": "1998-07-02"
+    },
+    {
+      "bookISBN": 5,
+      "bookname": "Harry Potter and the Cursed Child",
+      "bookauthor": "J.K.Rowling",
+      "bookcategory": "Future",
+      "booklanguage": "English",
+      "bookpublicationdate": "2016-07-31"
+    }
+  ]
+}
